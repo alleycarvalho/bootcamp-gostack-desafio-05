@@ -42,7 +42,7 @@
 
 ###### 3. Filtro de estado
 
-- [ ] Adicionar um **filtro de estado** na listagem de **issues** que criamos nos **detalhes do repositório**. O estado representa se a issue está **em aberto**, **fechada** ou uma opção para **exibir todas**.
+- [x] Adicionar um **filtro de estado** na listagem de **issues** que criamos nos **detalhes do repositório**. O estado representa se a issue está **em aberto**, **fechada** ou uma opção para **exibir todas**.
 
 Exemplos de requisição:
 
