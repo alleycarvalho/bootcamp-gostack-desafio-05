@@ -73,6 +73,10 @@ https://api.github.com/repos/rocketseat/unform/issues?page=2
 
 ![Detalhes do repositório](.github/details.png)
 
+### Paginação das issues
+
+![Paginação das issues](.github/details_pagination.png)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
