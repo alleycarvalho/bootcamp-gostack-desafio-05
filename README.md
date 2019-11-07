@@ -54,14 +54,14 @@ https://api.github.com/repos/rocketseat/unform/issues?state=closed
 
 ###### 4. Paginação
 
-- [ ] Adicionar paginação nas **issues** listadas nos **detalhes do repositório**. A API do Github lista no máximo 30 issues por página e você pode controlar o número da página atual por um parâmetro no endereço da requisição:
+- [x] Adicionar paginação nas **issues** listadas nos **detalhes do repositório**. A API do Github lista no máximo 30 issues por página e você pode controlar o número da página atual por um parâmetro no endereço da requisição:
 
 ```
 https://api.github.com/repos/rocketseat/unform/issues?page=2
 ```
 
-- [ ] Adicionar apenas um botão de **próxima página** e **página anterior**.
-- [ ] O botão de **página anterior** deve ficar `desativado` na primeira página.
+- [x] Adicionar apenas um botão de **próxima página** e **página anterior**.
+- [x] O botão de **página anterior** deve ficar `desativado` na primeira página.
 
 ## :computer: Resultado do desafio
 
