@@ -32,13 +32,13 @@
 
 ###### 1. Captando erros
 
-- [ ] Adicionar um `try/catch` na função `handleSubmit` do componente `Main` e caso um repositório não seja encontrado na **API do Github**, adicionar uma borda vermelha no input em que o usuário digitou o nome do repositório.
+- [x] Adicionar um `try/catch` na função `handleSubmit` do componente `Main` e caso um repositório não seja encontrado na **API do Github**, adicionar uma borda vermelha no input em que o usuário digitou o nome do repositório.
 
 ###### 2. Repositório duplicado
 
-- [ ] Adicionar na função `handleSubmit`, uma verificação para ver se o repositório não está duplicado, ou seja, se ele ainda não existe no estado de `repositories`.
+- [x] Adicionar na função `handleSubmit`, uma verificação para ver se o repositório não está duplicado, ou seja, se ele ainda não existe no estado de `repositories`.
 
-- [ ] Caso exista, dispare um erro, e com isso o código cairá no `catch` do `try/catch` criado na funcionalidade anterior.
+- [x] Caso exista, dispare um erro, e com isso o código cairá no `catch` do `try/catch` criado na funcionalidade anterior.
 
 ###### 3. Filtro de estado
 
